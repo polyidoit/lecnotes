@@ -1,0 +1,57 @@
+\contentsline {part}{Part\ I\hspace {\betweenumberspace }Bosonic string theory}{3}% 
+\contentsline {chapter}{\numberline {1}The classical bosonic string}{5}% 
+\contentsline {section}{\numberline {1.1}The relativistic point particle}{5}% 
+\contentsline {subsection}{\numberline {1.1.1}Parametrizing the world-line}{7}% 
+\contentsline {subsection}{\numberline {1.1.2}Einbein field action}{8}% 
+\contentsline {section}{\numberline {1.2}The $p$-brane and Nambu-Goto action}{9}% 
+\contentsline {subsection}{\numberline {1.2.1}The Nambu-Goto action}{10}% 
+\contentsline {subsection}{\numberline {1.2.2}Symmetries of Nambu-Goto action}{11}% 
+\contentsline {subsection}{\numberline {1.2.3}Equation of motion and boundary conditions}{11}% 
+\contentsline {section}{\numberline {1.3}The Polyakov action}{13}% 
+\contentsline {subsection}{\numberline {1.3.1}The equation of motion}{13}% 
+\contentsline {subsection}{\numberline {1.3.2}Symmetries of the Polyakov action}{15}% 
+\contentsline {subsection}{\numberline {1.3.3}Conformal gauge}{15}% 
+\contentsline {section}{\numberline {1.4}Mode expansions of the string}{15}% 
+\contentsline {subsection}{\numberline {1.4.1}Closed string case}{16}% 
+\contentsline {subsection}{\numberline {1.4.2}Open string case}{19}% 
+\contentsline {chapter}{\numberline {2}Quantization of the bosonic string}{21}% 
+\contentsline {section}{\numberline {2.1}Canonical quantization}{21}% 
+\contentsline {subsection}{\numberline {2.1.1}Fock space}{22}% 
+\contentsline {subsection}{\numberline {2.1.2}Virasoro algebra and physical states}{23}% 
+\contentsline {subsection}{\numberline {2.1.3}Eliminating ghost states}{26}% 
+\contentsline {section}{\numberline {2.2}Light-cone gauge quantization}{27}% 
+\contentsline {subsection}{\numberline {2.2.1}Light-cone gauge}{27}% 
+\contentsline {subsection}{\numberline {2.2.2}Light-cone gauge quantization}{31}% 
+\contentsline {subsection}{\numberline {2.2.3}Mass-shell condition}{32}% 
+\contentsline {section}{\numberline {2.3}String spectrum and Poincar\'{e} invariance}{34}% 
+\contentsline {chapter}{\numberline {3}Conformal field theory}{35}% 
+\contentsline {section}{\numberline {3.1}Conformal transformation}{35}% 
+\contentsline {subsection}{\numberline {3.1.1}Infinitesimal analysis}{36}% 
+\contentsline {subsection}{\numberline {3.1.2}Conformal group for $d>2$}{38}% 
+\contentsline {subsubsection}{\numberline {3.1.2.1}The commutation relation of generators}{40}% 
+\contentsline {subsubsection}{\numberline {3.1.2.2}The $d>2$ conformal group}{41}% 
+\contentsline {subsection}{\numberline {3.1.3}Conformal group for $d=2$}{42}% 
+\contentsline {subsubsection}{\numberline {3.1.3.1}Complexification of coordinates}{42}% 
+\contentsline {subsubsection}{\numberline {3.1.3.2}Witt algebra and $d=2$ conformal group}{43}% 
+\contentsline {subsubsection}{\numberline {3.1.3.3}Virasoro algebra}{44}% 
+\contentsline {section}{\numberline {3.2}Energy-momemtum tensor}{46}% 
+\contentsline {subsection}{\numberline {3.2.1}General energy-momentum tensor}{46}% 
+\contentsline {subsection}{\numberline {3.2.2}Traceless energy-momentum tensor}{47}% 
+\contentsline {subsection}{\numberline {3.2.3}Two-dimensional Euclidean case}{47}% 
+\contentsline {section}{\numberline {3.3}Conformal fields}{48}% 
+\contentsline {subsection}{\numberline {3.3.1}Primary and chiral fields}{50}% 
+\contentsline {section}{\numberline {3.4}Operator product expansion}{51}% 
+\contentsline {subsection}{\numberline {3.4.1}$T_{\mu \nu }$ in string mode expansion}{51}% 
+\contentsline {chapter}{\numberline {4}Polyakov path integral and BRST quantization}{53}% 
+\contentsline {part}{Part\ II\hspace {\betweenumberspace }Superstring theory}{55}% 
+\contentsline {chapter}{\numberline {5}World-sheet supersymmetric strings}{57}% 
+\contentsline {section}{\numberline {5.1}Ramond-Neveu-Schwarz action}{57}% 
+\contentsline {section}{\numberline {5.2}Global world-sheet supersymmetry}{57}% 
+\contentsline {subsection}{\numberline {5.2.1}Superspace formalism}{57}% 
+\contentsline {subsection}{\numberline {5.2.2}Constraint equations}{60}% 
+\contentsline {section}{\numberline {5.3}Boundary condition and mode expansion of superstring}{66}% 
+\contentsline {subsection}{\numberline {5.3.1}Open string}{67}% 
+\contentsline {subsection}{\numberline {5.3.2}Closed string}{69}% 
+\contentsline {section}{\numberline {5.4}Canonical quantization}{69}% 
+\contentsline {section}{\numberline {5.5}Light-cone quantization}{70}% 
+\contentsline {chapter}{\numberline {6}Spacetime supersymmetric string theory}{71}% 
