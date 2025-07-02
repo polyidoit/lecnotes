@@ -1,2 +1,2 @@
 # lecnotes
-These are some useful notes.
+These are some of my lecture notes.
